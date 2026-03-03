@@ -12,9 +12,10 @@ Les dirigeants de PME e-commerce passent des heures chaque semaine à compiler m
 
 ## 🚀 Demo
 
-👉 [Lien vers la demo en ligne](#) ← *tu remplaceras ça après le déploiement*
+👉 [https://dashboard-ecommerce-aboedmprsxqeuc7x35npps.streamlit.app/](#)
 
-![screenshot du dashboard](#) ← *tu ajouteras une capture d'écran*
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/748c9768-d718-4a39-a18b-f0240276f830" />
+
 
 ## 📈 Fonctionnalités
 
